@@ -1,0 +1,14 @@
+{
+	"name": "webhelpers/whstopmailcreditslip",
+	"description": "Wb Helpers - Stop Email Credit Slip",
+	"autoload": {
+		"psr-4": {
+			"WHStopEmailCreditSlip\\": "src/"
+		}
+	},
+	"config": {
+		"prepend-autoloader": false
+	},
+	"license": "MIT",
+	"type": "prestashop-module"
+}
